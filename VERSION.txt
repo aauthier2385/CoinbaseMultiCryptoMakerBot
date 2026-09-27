@@ -1,0 +1,2 @@
+Coinbase Multi-Crypto Maker Bot
+Version 2.2
