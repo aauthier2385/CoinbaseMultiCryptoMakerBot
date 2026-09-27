@@ -1,0 +1,32 @@
+# Credentials / secrets
+*.pem
+*.key
+.env
+.env.*
+credentials.json
+secrets.json
+
+# Runtime state and logs
+*.csv
+*.log
+state*.json
+bot_state*.json
+logs/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local builds
+build/
+dist/
+*.spec
